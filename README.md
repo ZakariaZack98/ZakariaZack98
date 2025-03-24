@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zakaria!
 - 👀 I’m interested in web-dev
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on beginner-intermediate level javascript projects
+- 🌱 I’m currently learning ReactJS
+- 💞️ I’m looking to collaborate on beginner-intermediate level javascript+reactjs projects
 - 📫 How to reach me - sadeemdzakaria@yahoo.com
 - ⚡ Fun fact: I'm a future 10x dev ✨
 
