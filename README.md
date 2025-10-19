@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zakaria!
-- 👀 I’m a front-end web developer, specialised in TailwindCSS, ReactJS, Redux & NextJS.
-- 🌱 I'm currently learning NodeJS, ExpressJS, Socket.io & MongoDB
+- 👀 I’m a full-stack web developer specialized in MERN.
+- 🌱 I'm currently learning Go, PostgreSQL, and Prisma.
 - 💞️ I’m looking to collaborate on intermediate-level ReactJS+NextJS Projects & Express+MongoDB backend projects.
 - 🌐 Dev portfolio - https://zakaria-dev-portfolio.vercel.app
 - 📫 How to reach me - sadeemdzakaria@yahoo.com
